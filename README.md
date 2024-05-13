@@ -1,0 +1,1 @@
+# Learn RUST from scratch in public
